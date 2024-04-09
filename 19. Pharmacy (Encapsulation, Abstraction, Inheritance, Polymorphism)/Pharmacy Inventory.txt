@@ -1,0 +1,17 @@
+
+
+Medicine's Name: Synthroid
+Medicine's Category: Hormonal
+Medicine's Expiration Date: 05/12/2024
+Medicine's Number of Pills: 30
+Ingridient's Name: Levotiroxine
+Ingridient's Milligrams: 100.0
+
+Medicine's Name: Actron
+Medicine's Category: Anti-Inflamatory
+Medicine's Expiration Date: 09/10/2025
+Medicine's Number of Pills: 10
+Ingridient's Name: Ibuprofen
+Ingridient's Milligrams: 400.0
+Ingridient's Name: Paracetamol
+Ingridient's Milligrams: 200.0

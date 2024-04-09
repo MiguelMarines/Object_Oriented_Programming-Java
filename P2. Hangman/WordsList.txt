@@ -1,0 +1,13 @@
+lion
+bear
+tiger
+jaguar
+fish
+cat
+dog
+animal
+elephant
+snake
+eagel
+falcon
+hawk
